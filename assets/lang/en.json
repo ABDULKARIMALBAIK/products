@@ -1,0 +1,66 @@
+{
+  "application_name": "PortfolioME",
+
+
+
+  "home_header_title": "Products",
+  "home_header_subtitle": "Explore the latest modern products in the world",
+  "home_header_button_get_started": "Get Started",
+  "home_modern_products_title": "Modern Products",
+  "home_modern_products_subtitle": "We offer a lot of products which every one want has it, we care about your ideas and opinion and release latest version of our products.",
+  "home_fast_deliver_title": "Fast Delivery",
+  "home_fast_deliver_subtitle": "You think the distance is such as a issue, be relax, we have many of delivering center that were made it for you, your needs are our desire.",
+  "home_most_beloved_title": "Most Beloved",
+  "home_most_beloved_subtitle": "our clients are trust us for their requirements and always happy and satisfied, so we highly recommend you to use our products.",
+  "home_login_ready_title": "Join",
+  "home_login_ready_subtitle": "Come with us and be one of thousands of people around the world \n! Enjoy !",
+  "home_login_ready_button_text": "Login",
+  "home_footer_privacy": "Privacy Policy",
+  "home_terms_service": "Terms of Service",
+  "home_footer_faqs": "FAQ's",
+  "home_footer_blog": "Blog",
+  "home_footer_about": "About",
+  "home_footer_contact_us": "Contact Us",
+  "home_footer_developer_rights": "© 2022 All Rights Reserved to ABDULKARIM ALBAIK ",
+
+
+
+  "login_header_title": "Welcome Again",
+  "login_header_subtitle": "We are happy because you are interesting for our services, Please fill the fields :",
+  "login_username_textField_hint": "Username",
+  "login_password_textField_hint": "Password",
+  "login_header_button": "Login",
+  "login_header_accept": "When you login ,You accept our ",
+  "login_and": " and ",
+  "login_for_that": " for that",
+  "login_new_member": "New Member ?",
+  "login_register": "Register",
+  "home_header_button_login": "Login",
+
+
+
+
+
+  "register_header_title": "Join to us",
+  "register_header_subtitle": "You enjoy with us by register your data and become a member and take some benefits, Please fill the fields :",
+  "register_email_textField_hint": "Email",
+  "register_phone_textField_hint": "Phone Number",
+  "register_header_button": "Register",
+  "signUp_text_drop_upload_image": "Drop your photo",
+  "login_pick_image_gallery": "Pick Image",
+
+
+
+  "cart_no_data": "Cart is empty",
+  "cart_pay_button": "Pay",
+  "cart_pay_price_title": "Price:",
+
+
+
+  "not_found_page": "Found is not found",
+  "no_data": "No data to show",
+  "error": "Error is happened",
+  "no_internet": "You are offline",
+  "loading": "Loading..."
+
+}
