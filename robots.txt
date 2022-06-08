@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abdulkarimalbaik.github.io/products/sitemap.xml
+Sitemap: https://products-gold.vercel.app/sitemap.xml
