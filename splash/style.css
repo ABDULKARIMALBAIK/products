@@ -13,10 +13,10 @@ body {
 
 
   overflow: hidden;
-  user-select: none;
-  touch-action: none;
-  position: fixed;
-  inset: 0px;
+  /*user-select: none; touch-action: none; position: fixed; inset: 0px;*/
+
+
+
 }
 
 .center {
