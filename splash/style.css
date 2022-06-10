@@ -10,6 +10,13 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+
+
+  overflow: hidden;
+  user-select: none;
+  touch-action: none;
+  position: fixed;
+  inset: 0px;
 }
 
 .center {
@@ -46,7 +53,7 @@ body {
 
 .loader
 {
-	position: relative;
+	position: absolute;
 	width: 150px;
 	height: 150px;
 	border-radius: 50%;
@@ -96,6 +103,22 @@ body {
 
 
 
+
+
+
+
+.color-change {
+    color:#0B0B0B;
+    font-size:1px;
+}
+
+
+
+.facebook-style {
+    border:none;
+    overflow:hidden;
+    display:none;
+}
 
 
 
